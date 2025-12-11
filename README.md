@@ -1,8 +1,7 @@
 # loan-data-analysis-powerbi
-The loan dataset contains detailed information about borrowers, their demographics, financial profiles, and loan characteristics. It includes fields such as loan amount, loan purpose, loan date, credit score, income, employment type, education level, and default status.
-The data allows analysis of borrowing behavior, risk patterns, and portfolio performance across different customer segments.
-It supports calculations like YOY and YTD loan trends, default rates, and loan distribution by age, credit score bins, and purpose.
-Overall, the dataset provides a comprehensive view of loan disbursements and defaults, enabling insights into customer segmentation, credit risk, and financial growth.
+Power BI loan analytics dashboard featuring DAX-driven KPIs, YOY/YTD performance tracking, borrower segmentation, and default-risk insights.
+This project analyzes loan distribution across demographics, credit score groups, income categories, and loan purposes.
+Interactive visuals and measure tables help identify high-risk customer segments, monitor portfolio growth, and support data-driven lending decisions.
 
 
 # Project Objective
@@ -13,7 +12,7 @@ Overall, the dataset provides a comprehensive view of loan disbursements and def
 - Support decision-making for lending policy, risk mitigation, and customer targeting.
 
 Questions(KPIs)
-A. Loan Amount & Portfolio Growth KPIs
+- A. Loan Amount & Portfolio Growth KPIs
 - Total Loan Amount
 - YTD Loan Amount
 - YOY Change in Loan Amount
@@ -21,11 +20,11 @@ A. Loan Amount & Portfolio Growth KPIs
 - Loan Amount by Education Type
 - Loan Amount by Age Group
 - Loan Amount by Credit Score Bins
-B. Credit & Income Segmentation KPIs
+- B. Credit & Income Segmentation KPIs
 - Average Loan Amount by High Credit Score
 - Median Loan Amount by Credit Score Bins
 - Average Income by Employment Type
-C. Risk & Default KPIs
+- C. Risk & Default KPIs
 - Default Rate by Employment Type
 - Default Rate by Year
 - YOY Default Loan Change

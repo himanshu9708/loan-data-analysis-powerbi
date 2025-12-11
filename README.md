@@ -12,7 +12,6 @@ Interactive visuals and measure tables help identify high-risk customer segments
 - Support decision-making for lending policy, risk mitigation, and customer targeting.
 
 # Questions(KPIs)
-# - A. Loan Amount & Portfolio Growth KPIs
 - Total Loan Amount
 - YTD Loan Amount
 - YOY Change in Loan Amount
@@ -20,11 +19,9 @@ Interactive visuals and measure tables help identify high-risk customer segments
 - Loan Amount by Education Type
 - Loan Amount by Age Group
 - Loan Amount by Credit Score Bins
- - B. Credit & Income Segmentation KPIs
 - Average Loan Amount by High Credit Score
 - Median Loan Amount by Credit Score Bins
 - Average Income by Employment Type
- - C. Risk & Default KPIs
 - Default Rate by Employment Type
 - Default Rate by Year
 - YOY Default Loan Change
